@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DA6C2740-7472-408E-8608-25EAF484ABC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.InventoryManagement FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Logger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoggerTests/LoggerTests.cs">
+    <Files>
+      <File FileName="Logger/Program.cs" Line="26" Column="4" />
+      <File FileName="LoggerTests/UnitTest1.cs" Line="105" Column="6" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Logger" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

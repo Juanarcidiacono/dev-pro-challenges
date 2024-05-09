@@ -103,8 +103,4 @@ public class LoggerTests
 
         Assert.IsTrue(predefinedMessages.Contains(severity));
     }
-
-
-
-
 }

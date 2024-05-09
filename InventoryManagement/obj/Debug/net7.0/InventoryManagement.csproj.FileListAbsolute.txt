@@ -1,0 +1,15 @@
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/bin/Debug/net7.0/InventoryManagement
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/bin/Debug/net7.0/InventoryManagement.deps.json
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/bin/Debug/net7.0/InventoryManagement.runtimeconfig.json
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/bin/Debug/net7.0/InventoryManagement.dll
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/bin/Debug/net7.0/InventoryManagement.pdb
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.csproj.AssemblyReference.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.AssemblyInfoInputs.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.AssemblyInfo.cs
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.csproj.CoreCompileInputs.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.dll
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/refint/InventoryManagement.dll
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.pdb
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/InventoryManagement.genruntimeconfig.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/InventoryManagement/obj/Debug/net7.0/ref/InventoryManagement.dll
