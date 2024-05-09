@@ -1,1 +1,4 @@
 [2024-05-09 14:24:17] [INFO] User logged in
+[2024-05-09 15:10:39] [WARNING] Failed login attempt
+[2024-05-09 15:11:40] [DEBUG] Connection established
+[2024-05-09 15:11:50] [DEBUG] User logged in
