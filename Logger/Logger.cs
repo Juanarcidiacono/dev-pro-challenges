@@ -63,8 +63,6 @@ public class Logger
         string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
         string logEntry = $"[{timestamp}] [{level}] {message}";
 
-
-
         try
         {
             using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, "application.log"), true))
@@ -80,6 +78,5 @@ public class Logger
             Console.WriteLine($"Error writing to log file: {ex.Message}");
         }
     }
-
 
 }
