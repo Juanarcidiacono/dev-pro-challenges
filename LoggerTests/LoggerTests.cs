@@ -8,8 +8,7 @@ public class LoggerTests
 {
 
     private string docPath = Path.Combine(Logger.docPath, "application.log");
-
-
+    
     /// <summary>
     /// Test initialization method. Executes before each test to set up the test environment.
     /// Deletes the log file if it exists before running a test.
