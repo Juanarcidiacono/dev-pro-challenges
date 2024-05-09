@@ -1,6 +1,3 @@
-﻿/// <summary>
-/// Represents a product with its name, price, and stock information.
-/// </summary>
 public class InvMgmt
 {
 
