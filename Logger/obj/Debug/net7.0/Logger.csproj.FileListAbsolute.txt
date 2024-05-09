@@ -1,0 +1,15 @@
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/bin/Debug/net7.0/Logger
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/bin/Debug/net7.0/Logger.deps.json
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/bin/Debug/net7.0/Logger.runtimeconfig.json
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/bin/Debug/net7.0/Logger.dll
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/bin/Debug/net7.0/Logger.pdb
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.csproj.AssemblyReference.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.AssemblyInfoInputs.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.AssemblyInfo.cs
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.csproj.CoreCompileInputs.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.dll
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/refint/Logger.dll
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.pdb
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/Logger.genruntimeconfig.cache
+/Users/juanarcidiacono/Desktop/DevPro Challenges/LoggerChallenge/Logger/Logger/obj/Debug/net7.0/ref/Logger.dll
