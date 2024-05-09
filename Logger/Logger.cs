@@ -1,7 +1,3 @@
-using System;
-using System.IO;
-using static System.Net.Mime.MediaTypeNames;
-
 public class Logger
 {
     public static string docPath { get; } = AppDomain.CurrentDomain.BaseDirectory;

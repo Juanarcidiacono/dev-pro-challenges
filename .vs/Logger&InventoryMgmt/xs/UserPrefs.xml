@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{DA6C2740-7472-408E-8608-25EAF484ABC0}|Default">
-  <MonoDevelop.Ide.ItemProperties.InventoryManagement FirstBuild="True" />
+﻿<Properties StartupConfiguration="{B43A5446-DAF9-4E9B-B9D0-FB01ABE4C08B}|Default">
+  <MonoDevelop.Ide.ItemProperties.InventoryManagement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Logger PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -7,18 +7,34 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LoggerTests/LoggerTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logger/Logger.cs">
     <Files>
-      <File FileName="Logger/Program.cs" Line="26" Column="4" />
+      <File FileName="Logger/Program.cs" Line="85" Column="1" />
+      <File FileName="InventoryManagement/Program.cs" Line="23" Column="18" />
       <File FileName="LoggerTests/UnitTest1.cs" Line="105" Column="6" NotebookId="1" />
+      <File FileName="InventoryManagement/Product.cs" Line="7" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="Logger&amp;InventoryMgmt">
+            <Node name="InventoryManagement" expanded="True" />
+            <Node name="Logger" expanded="True">
+              <Node name="Logger.cs" selected="True" />
+            </Node>
+            <Node name="LoggerTests" expanded="True" />
+          </Node>
+        </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Logger" expanded="True" />
+          <Node name="Logger&amp;InventoryMgmt">
+            <Node name="LoggerTests" expanded="True">
+              <Node name="LoggerTests" expanded="True">
+                <Node name="LoggerTests" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
